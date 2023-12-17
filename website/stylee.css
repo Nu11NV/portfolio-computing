@@ -1,0 +1,32 @@
+body 
+{
+background-image: url("https://i.pinimg.com/originals/c8/c1/1d/c8c11d37774b9ac8afdbeee61de3fcd4.jpg");
+background-color: black;
+}
+
+
+h1
+{
+color: blue;
+text-align:center;
+}
+
+
+
+h2
+{
+color:lightblue;
+}
+
+
+h3
+{
+color: cyan;
+text-align: center;	
+}
+
+
+a
+{
+font-size: 50px;
+}
